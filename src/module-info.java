@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author integra
+ *
+ */
+module Practice {
+}
